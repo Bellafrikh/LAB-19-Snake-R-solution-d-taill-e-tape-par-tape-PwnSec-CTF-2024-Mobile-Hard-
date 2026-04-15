@@ -123,12 +123,3 @@ Ce laboratoire a permis de mettre en pratique une chaîne d'attaque complète et
 
 ---
 
-### Instructions pour finaliser ce document :
-
-1.  **Gestion des Screenshots :**
-    * Remplace les balises de type `![Nom de l'image](nom_du_fichier.png)` par le chemin réel de tes captures d'écran.
-    * Assure-toi que les images sont dans le même dossier que ton fichier `README.md`.
-2.  **Mise en page :**
-    * Tu peux prévisualiser le rendu final en utilisant un éditeur comme **VS Code** (Ctrl+Shift+V) ou en téléchargeant le fichier sur un dépôt **GitHub**.
-3.  **Vérification du Flag :**
-    * Copie-colle la chaîne exacte récupérée dans ton terminal `logcat` dans le bloc de code de la section 4 pour garantir l'exactitude du rapport.
